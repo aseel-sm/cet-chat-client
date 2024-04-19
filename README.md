@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Chat app with connecting random online user available
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
